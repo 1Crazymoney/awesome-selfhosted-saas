@@ -8,6 +8,22 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [
 
 See [Contributing](.github/CONTRIBUTING.md).
 
+## Self-hosted SaaS Applications
+
+Get my (over 150+) instant 'One-Click-Deploy' SaaS Application templates, when you need to get up and running fast!
+
+Check it our @ [Self-hosted SaaS](https://github.com/donPabloNow/selfhosted-saas)
+
+
+## In Progress - R&D
+
+https://getfider.com/docs/hosting-instance
+https://about.codecov.io/pricing/
+https://support.gitkraken.com/enterprise/about-enterprise/
+https://posthog.com/docs/self-host/deploy/docker
+https://www.budibase.com/integration/docker/
+https://docs.kroki.io/kroki/setup/about-docker-podman/
+
 --------------------
 
 ## Table of contents
